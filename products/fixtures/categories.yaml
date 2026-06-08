@@ -1,0 +1,8 @@
+-   model: products.category
+    pk: 1
+    fields:
+        name: Mevalar
+-   model: products.category
+    pk: 2
+    fields:
+        name: Sabzavotlar
